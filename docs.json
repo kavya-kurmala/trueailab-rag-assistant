@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password by going to Settings, then Security, and selecting Reset Password. They will receive a verification email to confirm their identity."
+  },
+  {
+    "title": "Update Profile",
+    "content": "Users can update their profile information from the Profile section. They can change their name, phone number, profile photo, and basic account details."
+  },
+  {
+    "title": "Subscription Plans",
+    "content": "The platform offers Free, Pro, and Enterprise plans. The Free plan includes basic access, the Pro plan includes advanced features, and the Enterprise plan includes team management and priority support."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are available within 7 days of purchase if the user has not heavily used the service. Refund requests can be submitted through the Billing section."
+  },
+  {
+    "title": "Data Privacy",
+    "content": "User data is encrypted and stored securely. The platform does not sell personal data to third parties. Users can request data deletion from the Privacy Settings page."
+  },
+  {
+    "title": "Contact Support",
+    "content": "Users can contact support through the Help Center by submitting a support ticket. Support usually replies within 24 to 48 hours."
+  }
+]
